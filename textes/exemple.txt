@@ -1,0 +1,15 @@
+# Exemple de script de voix off.
+# Les lignes commençant par # ne sont pas lues.
+
+Bonjour et bienvenue dans cette nouvelle vidéo !
+
+Aujourd'hui, je vais vous montrer trois astuces simples pour gagner du temps au quotidien. [pause 1]
+
+Première astuce : préparez votre journée la veille au soir. Cinq minutes suffisent pour noter vos trois priorités.
+
+Deuxième astuce : regroupez les petites tâches. Répondre à tous vos messages d'un coup, c'est bien plus efficace que de le faire au fil de l'eau.
+
+Troisième astuce : apprenez à dire non. [pause 0.8] Chaque oui à quelque chose est un non à autre chose.
+
+[vitesse 0.95]
+Merci d'avoir regardé cette vidéo. Abonnez-vous pour ne pas rater la suite, et à très bientôt !
