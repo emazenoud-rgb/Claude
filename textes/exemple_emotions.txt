@@ -1,0 +1,16 @@
+# Exemple de voix off avec émotions (pour voixoff_emotion.py).
+# Balises françaises ou anglaises entre crochets.
+
+[excité] Salut tout le monde, et bienvenue dans cette nouvelle vidéo !
+
+[curieux] Vous êtes-vous déjà demandé pourquoi certaines personnes semblent avoir plus de temps que les autres ?
+
+[chuchote] Je vais vous confier un secret… [pause 1]
+
+[enthousiaste] Ce n'est pas de la magie ! Ce sont trois habitudes très simples.
+
+[triste] Pendant des années, j'ai couru après le temps, sans jamais le rattraper. [soupir]
+
+[joyeux] Et puis un jour, tout a changé. [rire] Et vous allez voir, c'est vraiment à la portée de tout le monde.
+
+[calme] Alors installez-vous confortablement, et commençons.
